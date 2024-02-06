@@ -23,6 +23,7 @@
     color: #626262;
     font-size: 20px;
     font-weight: 500px;
+    text-decoration: none;
 }
 .nav-menu li{
     display: flex;
